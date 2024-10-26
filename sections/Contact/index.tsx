@@ -11,10 +11,10 @@ export default function Contact() {
       <BackgroundBoxes />
       <BackgroundMask />
       <div className="z-20">
-        <h1 className="text-white font-bold text-center text-4xl lg:text-5xl max-w-96 md:max-w-full">
+        <h1 className="text-white font-bold text-center text-4xl lg:text-5xl mx-auto max-w-96 md:max-w-full">
           Contact <span className="text-[#CBACF9]">Me</span>
         </h1>
-        <p className="text-blue-100 mt-2 text-center">
+        <p className="text-blue-100 mt-2 px-4 text-center">
           Reach out to me today and let's discuss how I can help you achieve
           your goals.
         </p>
