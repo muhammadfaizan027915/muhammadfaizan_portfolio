@@ -1,0 +1,59 @@
+[
+  {
+    "title": "HTML",
+    "iconUrl": "/assets/svgs/tech_stack/html.svg"
+  },
+
+  {
+    "title": "CSS",
+    "iconUrl": "/assets/svgs/tech_stack/css.svg"
+  },
+  {
+    "title": "JypeScript",
+    "iconUrl": "/assets/svgs/tech_stack/javascript.svg"
+  },
+  {
+    "title": "TypeScript",
+    "iconUrl": "/assets/svgs/tech_stack/typescript.svg"
+  },
+  {
+    "title": "Tialwind",
+    "iconUrl": "/assets/svgs/tech_stack/tailwind.svg"
+  },
+  {
+    "title": "Material UI",
+    "iconUrl": "/assets/svgs/tech_stack/material.svg"
+  },
+  {
+    "title": "Chakra UI",
+    "iconUrl": "/assets/svgs/tech_stack/chakra.svg"
+  },
+  {
+    "title": "Mongo DB",
+    "iconUrl": "/assets/svgs/tech_stack/mongo.svg"
+  },
+  {
+    "title": "Express JS",
+    "iconUrl": "/assets/svgs/tech_stack/express.svg"
+  },
+  {
+    "title": "React JS",
+    "iconUrl": "/assets/svgs/tech_stack/react.svg"
+  },
+  {
+    "title": "Node JS",
+    "iconUrl": "/assets/svgs/tech_stack/node.svg"
+  },
+  {
+    "title": "Next JS",
+    "iconUrl": "/assets/svgs/tech_stack/next.svg"
+  },
+  {
+    "title": "Docker",
+    "iconUrl": "/assets/svgs/tech_stack/docker.svg"
+  },
+  {
+    "title": "Rest API",
+    "iconUrl": "/assets/svgs/tech_stack/restapi.svg"
+  }
+]

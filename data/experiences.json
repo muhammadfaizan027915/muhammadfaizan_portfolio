@@ -1,0 +1,26 @@
+[
+  {
+    "iconUrl": "/assets/svgs/hacker.svg",
+    "heading": "Software Engineer",
+    "company": "aSimplify Pvt Ltd",
+    "description": "Managing and developing web solutions. Also assist in client communication and timely delivery. "
+  },
+  {
+    "iconUrl": "/assets/svgs/laptop_analytics.svg",
+    "heading": "Full Stack Developer",
+    "company": "Tech Edge Solutions",
+    "description": "Assisted in many projects as Full Stack developer using MERN Stack, mainly enguaged in UI development."
+  },
+  {
+    "iconUrl": "/assets/svgs/engineer.svg",
+    "heading": "Backend Intern",
+    "company": "Omsre GRP",
+    "description": "Worked as Node JS developer and assisted UI and API's development based on assigned tasks."
+  },
+  {
+    "iconUrl": "/assets/svgs/bulb.svg",
+    "heading": "SM Mangager & Web Master",
+    "company": "IEEE Riphah FC CIS Chapter",
+    "description": "Volunteered to manage social media account and wordpres website for university society."
+  }
+]
