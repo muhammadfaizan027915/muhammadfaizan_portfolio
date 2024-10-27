@@ -2,9 +2,9 @@ import { ArrowUpRight } from "lucide-react";
 
 import Link from "next/link";
 import Button from "@ui/Button";
+import BackgroundMask from "@ui/BackgroundMask";
 import BackgroundBoxes from "@ui/BackgroundBoxes";
 import TextGenerateEffect from "@ui/TextGenerateEffect";
-import BackgroundMask from "@/components/ui/BackgroundMask";
 
 export default function Hero() {
   return (

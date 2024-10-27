@@ -1,5 +1,5 @@
-import SkillCard from "@/components/SkillCard";
-import InfiniteMovingCards from "@/components/ui/InfiniteMovingAnimation";
+import SkillCard from "@components/SkillCard";
+import InfiniteMovingCards from "@ui/InfiniteMovingAnimation";
 import skillsWithIcons from "@data/skillsWithIcons.json";
 
 export default function Skills() {

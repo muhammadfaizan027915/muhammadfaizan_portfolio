@@ -1,6 +1,6 @@
-import ContactForm from "@/components/ContactForm";
-import BackgroundMask from "@/components/ui/BackgroundMask";
-import BackgroundBoxes from "@/components/ui/BackgroundBoxes";
+import BackgroundMask from "@ui/BackgroundMask";
+import BackgroundBoxes from "@ui/BackgroundBoxes";
+import ContactForm from "@components/ContactForm";
 
 export default function Contact() {
   return (

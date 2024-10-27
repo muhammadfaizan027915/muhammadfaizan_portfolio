@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Copy, Check } from "lucide-react";
 import { COPIED_RETURN_TIME } from "@/utils/constants";
 import toast from "react-hot-toast";
-import Button from "./Button";
+import Button from "@ui/Button";
 
 type CopyButtonProps = {
   title?: string;

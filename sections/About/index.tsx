@@ -4,10 +4,9 @@ import Laptop from "@assets/svgs/laptop.svg";
 import Globe from "@assets/svgs/globe.svg";
 import Code from "@assets/svgs/code.svg";
 
-import Button from "@ui/Button";
+import BackgroundMask from "@ui/BackgroundMask";
 import BackgroundBoxes from "@ui/BackgroundBoxes";
 import BentoGrid, { BentoGridItem } from "@ui/BentoGrid";
-import BackgroundMask from "@/components/ui/BackgroundMask";
 import BackgroundGradientAnimation from "@ui/BackgroundGradientAnimation";
 import skills from "@data/skills.json";
 

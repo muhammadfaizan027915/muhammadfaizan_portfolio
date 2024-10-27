@@ -1,10 +1,10 @@
 "use client";
 
-import Input from "../ui/Input";
-import Button from "../ui/Button";
-import TextArea from "../ui/TextArea";
+import Input from "@ui/Input";
+import Button from "@ui/Button";
+import TextArea from "@ui/TextArea";
 import toast from "react-hot-toast";
-import sendMessage from "@/actions/sendMessage";
+import sendMessage from "@actions/sendMessage";
 
 export default function ContactForm() {
 

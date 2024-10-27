@@ -25,6 +25,7 @@
       "@ui/*": ["./components/ui/*"],
       "@sections/*": ["./sections/*"],
       "@components/*": ["./components/*"],
+      "@actions/*": ["./actions/*"],
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],

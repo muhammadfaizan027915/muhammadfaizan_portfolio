@@ -57,7 +57,7 @@ export default function FloatingNavbar({
           duration: 0.2,
         }}
         className={cn(
-          "max-w-fit fixed top-10 inset-x-0 mx-auto text-white rounded-xl overflow-hidden p-px bg-gradient-to-r from-[#6971A266] to-[#272A3C80] z-[9999]",
+          "max-w-fit fixed top-4 md:top-10 inset-x-0 mx-auto text-white rounded-xl overflow-hidden p-px bg-gradient-to-r from-[#6971A266] to-[#272A3C80] z-[9999]",
           className
         )}
       >
