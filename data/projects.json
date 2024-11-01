@@ -1,20 +1,68 @@
 [
   {
-    "heading": "3D Solar System Planets to Explore",
+    "heading": "Bitwise Kenya",
     "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    "imageUrl": "/assets/images/project_imagify.png",
-    "techStack": []
+    "imageUrl": "/assets/images/projects/bitWiseKenya.png",
+    "techStack": [
+      "/assets/svgs/tech_stack/react.svg",
+      "/assets/svgs/tech_stack/express.svg",
+      "/assets/svgs/tech_stack/mongo.svg",
+      "/assets/svgs/tech_stack/node.svg",
+      "/assets/svgs/tech_stack/css.svg"
+    ]
   },
   {
-    "heading": "3D Solar System Planets to Explore",
+    "heading": "Broadway Pizza Clone",
     "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    "imageUrl": "/assets/images/project_imagify.png",
-    "techStack": []
+    "imageUrl": "/assets/images/projects/broadwayPizza.png",
+    "techStack": [
+      "/assets/svgs/tech_stack/react.svg",
+      "/assets/svgs/tech_stack/express.svg",
+      "/assets/svgs/tech_stack/mongo.svg",
+      "/assets/svgs/tech_stack/node.svg",
+      "/assets/svgs/tech_stack/css.svg"
+    ]
   },
   {
-    "heading": "3D Solar System Planets to Explore",
+    "heading": "Educavo Learning",
     "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    "imageUrl": "/assets/images/project_imagify.png",
-    "techStack": []
+    "imageUrl": "/assets/images/projects/educavo.png",
+    "techStack": [
+      "/assets/svgs/tech_stack/react.svg",
+      "/assets/svgs/tech_stack/javascript.svg",
+      "/assets/svgs/tech_stack/css.svg"
+    ]
+  },
+  {
+    "heading": "Skin Asthetics",
+    "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    "imageUrl": "/assets/images/projects/skinAsthetics.png",
+    "techStack": [
+      "/assets/svgs/tech_stack/react.svg",
+      "/assets/svgs/tech_stack/javascript.svg",
+      "/assets/svgs/tech_stack/css.svg"
+    ]
+  },
+  {
+    "heading": "Broadway Dashboard",
+    "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    "imageUrl": "/assets/images/projects/broadwayDashboard.png",
+    "techStack": [
+      "/assets/svgs/tech_stack/html.svg",
+      "/assets/svgs/tech_stack/css.svg",
+      "/assets/svgs/tech_stack/javascript.svg"
+    ]
+  },
+  {
+    "heading": "Promot Base Clone",
+    "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    "imageUrl": "/assets/images/projects/promptBase.png",
+    "techStack": [
+      "/assets/svgs/tech_stack/react.svg",
+      "/assets/svgs/tech_stack/express.svg",
+      "/assets/svgs/tech_stack/mongo.svg",
+      "/assets/svgs/tech_stack/node.svg",
+      "/assets/svgs/tech_stack/css.svg"
+    ]
   }
 ]

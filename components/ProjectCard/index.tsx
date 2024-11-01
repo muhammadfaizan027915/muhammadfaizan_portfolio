@@ -41,9 +41,14 @@ export default async function ProjectCard({
           {techStack?.map((tech, index) => (
             <span
               key={index}
-              className="rounded-full border border-gray-700 bg-gradient-to-r from-[#04071D] to-[#0C0E23] h-12 w-12 inline-flex items-center justify-center"
+              className="rounded-full border border-gray-700 bg-gradient-to-r from-[#04071D] to-[#0C0E23] h-10 w-10 inline-flex items-center justify-center mr-2"
             >
-              <Image src={tech} alt={`tech_stack_${index}`} />
+              <Image
+                src={tech}
+                alt={`tech_stack_${index}`}
+                width={20}
+                height={20}
+              />
             </span>
           ))}
         </div>

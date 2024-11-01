@@ -10,10 +10,9 @@ import BentoGrid, { BentoGridItem } from "@ui/BentoGrid";
 import BackgroundGradientAnimation from "@ui/BackgroundGradientAnimation";
 import skills from "@data/skills.json";
 
-import { cn } from "@/utils";
-import { Copy } from "lucide-react";
 import CopyButton from "@/components/ui/CopyButton";
 import { EMAIL_ADDRESS } from "@/utils/constants";
+import { cn } from "@/utils";
 
 export default function About() {
   return (
