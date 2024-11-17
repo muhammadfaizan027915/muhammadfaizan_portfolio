@@ -1,7 +1,7 @@
 [
   {
     "heading": "Bitwise Kenya",
-    "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    "description": "Assisted in user interface design and development for client. Site was based on live soccer scores and updates for subscribers.",
     "imageUrl": "/assets/images/projects/bitWiseKenya.png",
     "techStack": [
       "/assets/svgs/tech_stack/react.svg",
@@ -13,7 +13,7 @@
   },
   {
     "heading": "Broadway Pizza Clone",
-    "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    "description": "Cloned the Browadway Pizza fast food chain website for learning purposes. Created UI using React JS and developed APIs using Express JS. ",
     "imageUrl": "/assets/images/projects/broadwayPizza.png",
     "techStack": [
       "/assets/svgs/tech_stack/react.svg",
@@ -25,7 +25,7 @@
   },
   {
     "heading": "Educavo Learning",
-    "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    "description": "Worked as frontend developer for elearning webiste. Designed using React JS and CSS, website as based on selling online courses.",
     "imageUrl": "/assets/images/projects/educavo.png",
     "techStack": [
       "/assets/svgs/tech_stack/react.svg",
@@ -35,7 +35,7 @@
   },
   {
     "heading": "Skin Asthetics",
-    "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    "description": "Assisted in design and development of frontend for Skin Astheicts services providing clinic. Used React and CSS for frontend development.",
     "imageUrl": "/assets/images/projects/skinAsthetics.png",
     "techStack": [
       "/assets/svgs/tech_stack/react.svg",
@@ -45,7 +45,7 @@
   },
   {
     "heading": "Broadway Dashboard",
-    "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    "description": "Created dashboard named Broadway Dashboard for learning purposes. Using HTML CSS and Javascript for development.",
     "imageUrl": "/assets/images/projects/broadwayDashboard.png",
     "techStack": [
       "/assets/svgs/tech_stack/html.svg",
@@ -55,7 +55,7 @@
   },
   {
     "heading": "Promot Base Clone",
-    "description": "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    "description": "Created Prompt Base webiste clone on Internship at OMSRE GRP. Created UI and integrated Stripe payment gateway.",
     "imageUrl": "/assets/images/projects/promptBase.png",
     "techStack": [
       "/assets/svgs/tech_stack/react.svg",

@@ -101,7 +101,7 @@ export default function About() {
             The Inside Scoop
           </p>
           <h1 className="font-bold text-xl md:text-4xl md:w-96">
-            Currently building a JS Animation library
+            Currently working on LLM based chatbots development
           </h1>
           <Image
             src={Code}
